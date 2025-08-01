@@ -1,0 +1,5 @@
+# Created at 2025-08-01T10:24:43.692
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Spring inteliJ\moneymanager\moneymanager\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
